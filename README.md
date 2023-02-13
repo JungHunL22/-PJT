@@ -12,7 +12,7 @@
     
     2. matplotilb과 seaborn을 이용해 사용자 특성(성별,연령대,시간대)에 따른 이용건수 시각화 
     
-- 목표 : 성별,연령대,대여소에 따른 이용건수 인사이트 도출
+
 - 라이브러리 : pandas, numpy, matplotlib, seaborn
 ## 링크
 - [프로젝트 진행 코드 폴더](https://github.com/JungHunL22/Data-Visualization-PJT/tree/master/%EA%B3%B5%EA%B3%B5%EC%9E%90%EC%A0%84%EA%B1%B0(%EB%B6%84%EC%84%9D%EC%BD%94%EB%93%9C))
